@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Socium/static/css/main.998cdeea.css",
+    "main.js": "/Socium/static/js/main.e08c3491.js",
+    "static/js/787.0028d698.chunk.js": "/Socium/static/js/787.0028d698.chunk.js",
+    "static/media/logo.svg": "/Socium/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Socium/index.html",
+    "main.998cdeea.css.map": "/Socium/static/css/main.998cdeea.css.map",
+    "main.e08c3491.js.map": "/Socium/static/js/main.e08c3491.js.map",
+    "787.0028d698.chunk.js.map": "/Socium/static/js/787.0028d698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.998cdeea.css",
+    "static/js/main.e08c3491.js"
+  ]
+}
