@@ -1,0 +1,10 @@
+.content{
+    grid-area: content;
+    background-color: #282c34;
+    color: white;
+  }
+
+  .someImage{
+      height: 300px;
+      margin: 5px;
+  }
