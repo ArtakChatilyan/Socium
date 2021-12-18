@@ -20,6 +20,12 @@ function Content() {
                 <div>
                     post2
                 </div>
+                <div>
+                    post3
+                </div>
+                <div>
+                    post4
+                </div>
             </div>
 
         </div>
